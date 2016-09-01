@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EmoticonsIndicatorView">
+
+        <attr name="bmpNomal" format="reference" />
+
+        <attr name="bmpSelect" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="ChatExtendMenuView">
+        <attr name="numColumns" format="integer"/>
+    </declare-styleable>
+</resources>

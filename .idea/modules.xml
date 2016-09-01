@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/copy/copy.iml" filepath="$PROJECT_DIR$/copy/copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/copyjeybiard/copyjeybiard.iml" filepath="$PROJECT_DIR$/copyjeybiard/copyjeybiard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/copylibrary/copylibrary.iml" filepath="$PROJECT_DIR$/copylibrary/copylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emotionkeyboard/emotionkeyboard.iml" filepath="$PROJECT_DIR$/emotionkeyboard/emotionkeyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emotionkeyboard-master.iml" filepath="$PROJECT_DIR$/emotionkeyboard-master.iml" />
+    </modules>
+  </component>
+</project>
